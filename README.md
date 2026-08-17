@@ -133,34 +133,6 @@ An NLP-powered application that generates assessment questions from educational 
 * 📝 Interactive quiz experience
 * 🗄️ SQLite persistence
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=JanetArockya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-height="170"
-alt="Janet's GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanetArockya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-height="170"
-alt="Janet's Top Languages"
-/>
-
-<br/>
-
-<img
-src="https://streak-stats.demolab.com?user=JanetArockya&theme=tokyonight&hide_border=true"
-alt="Janet's GitHub Streak"
-/>
-
-</div>
-
----
 
 ## 🎓 Education
 
